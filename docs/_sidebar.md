@@ -2,7 +2,8 @@
 
 * **[Bioinformatics]()**
   - []()
-* **R**
+  
+* **[R](https://otnew.github.io/Blog_R/#/)**
 
 * **[Photography]()**
   
