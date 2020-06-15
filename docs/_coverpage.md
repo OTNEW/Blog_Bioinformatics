@@ -1,11 +1,11 @@
 <img width="200px" src="_logo/logo.png">
 
-# **Samir's Blog**
+# **Bioinformatics**
 玩移液枪的佩奇
 
 自律且自由
 
 [GitHub](<https://github.com/OTNEW/Blog>)
-[Get Started](README.md)
+[Get Started](Contact.html)
 
 ![](_logo/blog.png)
