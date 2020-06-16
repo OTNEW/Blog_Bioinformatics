@@ -10,6 +10,7 @@
 # Bioinformations
  - <font size=4>[**RNA-seq**]()</font>
  - <font size=4>[**ChIP-seq**]()</font>
+ - <font size=4>[**Alternative Splicing**]()</font>
  - <font size=4>[**Tools**]()</font>
  
  
