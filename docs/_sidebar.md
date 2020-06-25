@@ -3,7 +3,7 @@
 * **[Bioinformatics](https://otnew.github.io/Blog/#/BLOG/Bioinformatics/Bioinformatics_Outline)**
  * RNA-seq
  * ChIP-seq
-	- [MEME](BLOG/Bioinformatics/ChIPseq/20200625_1)
+	- [MEME](BLOG/Bioinformatics/ChIPseq/20200625_1.md)
  * Alternative-Splicing
 	- [STAR + rMATS](BLOG/Bioinformatics/AS/20200616_1.md)
  * Tools
