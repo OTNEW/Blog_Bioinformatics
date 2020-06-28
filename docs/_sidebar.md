@@ -4,7 +4,7 @@
  * RNA-seq
  * ChIP-seq
  
-	- [MACS-参数详解](BLOG/Bioinformatics/ChIP-seq/20200627_1.md)
+	- [MACS-参数详解](BLOG/Bioinformatics/ChIPseq/20200627_1.md)
 	
 	- [MACS——基础篇](BLOG/Bioinformatics/ChIPseq/20200626_1.md)
 	
