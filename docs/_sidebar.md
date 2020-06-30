@@ -12,6 +12,8 @@
  * Alternative-Splicing
 	- [STAR + rMATS](BLOG/Bioinformatics/AS/20200616_1.md)
  * Tools
+	- [Snakemake](BLOG/Bioinformatics/Tools/20200630_1)
+ 
 	- [STAR --- An Sequencing Reads Aligner](BLOG/Bioinformatics/Tools/20200616_1.md)
   
 * **[R](https://otnew.github.io/Blog/#/BLOG/R/R_Outline)**
